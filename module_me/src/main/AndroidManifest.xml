@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.windfallsheng.moduleme">
+
+    <application android:theme="@style/AppTheme">
+
+        <activity android:name=".MainActivity" />
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".activity.EventBusActivity" />
+        <activity android:name=".activity.TextOneActivity" />
+        <activity android:name=".activity.TestActivity" />
+        <activity android:name=".activity.WebViewActivity" />
+        <activity android:name=".activity.InjectActivity" />
+        <activity android:name=".activity.Test2Activity" />
+        <activity android:name=".activity.Test3Activity" />
+    </application>
+</manifest>
